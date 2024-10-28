@@ -1,6 +1,6 @@
 # Mazer Dashboard
 
-# USing Laravel 10
+# Using Laravel 10
 
 # Dashboard
 
