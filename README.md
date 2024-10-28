@@ -8,7 +8,7 @@
 
 1. Clone this project
     ```bash
-    git clone clone https://github.com/razorisuru/Larvel-10-Mazer-Dashboard
+    git clone https://github.com/razorisuru/Larvel-10-Mazer-Dashboard
     ```
 2. Install dependencies
 
