@@ -24,3 +24,13 @@ Route::middleware([
         return view('dashboard.dashboard');
     })->name('dashboard');
 });
+
+// exaple route
+// Route::middleware([
+//     'auth:sanctum',
+//     config('jetstream.auth_session'),
+//     'verified',
+//     'AdminRedirect',
+// ])->group(function () {
+//     Route::get('/dashboard', [AdminController::class, 'dashboard'])->name('dashboard');
+// });
